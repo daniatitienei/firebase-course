@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199871673137",
+    "project_id": "compose-firebase-caef0",
+    "storage_bucket": "compose-firebase-caef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199871673137:android:23509bba00ca93e5b43610",
+        "android_client_info": {
+          "package_name": "com.ad_coding.firebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5KXq-23d9w_zSUnCChiByDKlUVxRqVwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
